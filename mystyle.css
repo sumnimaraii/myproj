@@ -189,6 +189,42 @@ h1{
 
 .table{
     background-color: aqua;
+    padding: 30px;
+}
+.table label{
+    font-size: 30px;
+    display: block;
+}
+.tablr input, .table textarea .table button{
+    width: 100%;
+    font-size: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
+
+.table textarea{
+    height: 120px;
+    resize: none;
+}
+
+.table button{
+    background-color: blanchedalmond;
+    color: aquamarine;
+}
+
+
+
+.map{
+    width: 80%;
+    height: 100%;
+}
+
+.map iframe{
+    height: 100%;
+    width: 100%;
 }
 
 
